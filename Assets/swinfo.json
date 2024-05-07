@@ -1,0 +1,24 @@
+{
+  "spec": "2.0",
+  "mod_id": "Kube",
+  "name": "Kube",
+  "author": "munix",
+  "description": "Kube",
+  "source": "",
+  "version": "0.1.0",
+  "version_check": "",
+  "ksp2_version": {
+    "min": "0.1.5",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.5.1",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": []
+}

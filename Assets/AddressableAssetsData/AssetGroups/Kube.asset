@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Kube
+  m_EditorClassIdentifier: 
+  m_GroupName: Kube
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b2e7a1c9508549d4a9acb05f5b3c6d59
+  m_SerializeEntries:
+  - m_GUID: f72890ba114e6fe42b092f66b5719ccf
+    m_Address: kube.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2610dbe5261565443ad38ecf285be90c
+    m_Address: kube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dec63a2691203cc40b3e53b9b3050a7e
+    m_Address: kube_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 07dc3858a52e10e43aa5022929745809, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9f225402bafa05f49a623d36ef1d6908, type: 2}
+    - {fileID: 11400000, guid: 234bc86083af6bb45bfb7da8a9e3e32a, type: 2}
